@@ -7,7 +7,7 @@
 
 ##1. Install
 
-> git clone 
+> `git clone git@github.com:Andrew-liu/Simple_Spider.git`
 
 
 ##2. Use It simply
